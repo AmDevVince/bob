@@ -1,0 +1,15 @@
+notes
+
+3 boxes side to side
+
+
+icon 
+username next to icon 
+edit profile next to username
+user stats under username
+
+descriptions under user stats
+
+location under description
+redirect icons under descriptions and icon
+
